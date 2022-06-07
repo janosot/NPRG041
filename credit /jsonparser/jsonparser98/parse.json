@@ -1,0 +1,34 @@
+[  
+    {  
+        "name":"Amanda",
+        "city":"New York",
+        "kids":[  
+            "Emma",
+            "James"
+        ],
+        "job":"Teacher",
+        "age":30
+    },
+    {  
+        "name":"Daniel",
+        "city":"Prague",
+        "kids":[  
+            "Jan",
+            "Vojta"
+        ],
+        "job":"Doctor",
+        "age":53
+    },
+    {
+        "name":"Peter",
+        "city":"London",
+        "kids":[  
+            "Jacob",
+            "Anna",
+            "Max",
+            "Victoria"
+        ],
+        "job":"Programmer",
+        "age": 47
+    }
+]
